@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cd0aa28b-9a8d-11ee-bbad-14133352e7dc.jpg</filename>
+	<path>C:\Users\vedan\OneDrive\Desktop\images\train\cd0aa28b-9a8d-11ee-bbad-14133352e7dc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>187</ymin>
+			<xmax>626</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>85cc45e9-9a8d-11ee-b2f0-14133352e7dc.jpg</filename>
+	<path>C:\Users\vedan\OneDrive\Desktop\images\test\85cc45e9-9a8d-11ee-b2f0-14133352e7dc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>161</ymin>
+			<xmax>490</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

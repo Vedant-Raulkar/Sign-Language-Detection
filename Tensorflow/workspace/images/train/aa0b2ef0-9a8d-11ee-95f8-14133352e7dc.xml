@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>aa0b2ef0-9a8d-11ee-95f8-14133352e7dc.jpg</filename>
+	<path>C:\Users\vedan\OneDrive\Desktop\images\train\aa0b2ef0-9a8d-11ee-95f8-14133352e7dc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ILoveYou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>182</ymin>
+			<xmax>492</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>
